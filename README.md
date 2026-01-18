@@ -1,4 +1,4 @@
-<img src="./khanhhuyenmai.svg" alt="banner" />
+<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/khanhhuyenmai.svg" alt="banner" />
 
 ## About Me
 
@@ -38,4 +38,24 @@ I value consistency, continuous learning, and long-term growth.
 
 ---
 
-> *Everyday is a learning day*
+## Where to find me
+
+<p align="center">
+  <a href="https://github.com/USERNAME" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/github.png" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:k63.2414310041@ftu.edu.vn">
+    <img src="https://img.icons8.com/fluency/96/apple-mail.png" alt="Email"/>
+  </a>
+</p>
+
+---
+
+### My favourite quote
+
+<p align="center">
+  <em style="font-family: Georgia, 'Times New Roman', serif; font-size: 18px;">
+    Everyday is a learning day
+  </em>
+</p>
