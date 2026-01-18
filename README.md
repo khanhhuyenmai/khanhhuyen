@@ -55,7 +55,6 @@ I value consistency, continuous learning, and long-term growth.
 ### My favourite quote
 
 <p align="center">
-  <em style="font-family: Georgia, 'Times New Roman', serif; font-size: 18px;">
-    Everyday is a learning day
-  </em>
+  <img src="https://raw.githubusercontent.com/khanhhuyenmai/khanhhuyenmai/main/khanhhuyenmai-quote.svg" alt="quote banner" />
 </p>
+
