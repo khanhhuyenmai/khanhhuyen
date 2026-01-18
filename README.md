@@ -1,37 +1,41 @@
-<!-- ===== Name ===== -->
-<h1 align="center">khanhhuyenmai</h1>
+<img src="./khanhhuyenmai.svg" alt="banner" />
 
-<br>
+## About Me
 
-<!-- ===== About Me ===== -->
-<h2 align="center">👩‍🎓 About Me</h2>
+I am a second-year student majoring in International Finance at Foreign Trade University (FTU).
 
-<p align="center">
-  I am a second-year student majoring in International Finance at Foreign Trade University (FTU).<br>
-  I am curious about the intersection of Technology and Finance,<br>
-  and currently exploring the field of Data Analytics.
-</p>
+I am curious about the intersection of Technology and Finance, and I am currently exploring the field of Data Analytics to better understand how data can support financial decision-making.
 
-<br>
+I am interested in building a strong academic foundation while gradually developing practical skills that can be applied in real-world financial and analytical contexts.
 
-<!-- ===== Where to find me ===== -->
-<h2 align="center">📫 Where to find me</h2>
+I value consistency, continuous learning, and long-term growth.
 
-<div align="center">
-  <a href="mailto:k63.2414310041@ftu.edu.vn">
-    <img src="https://img.shields.io/badge/Email-FFB703?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/khanhhuyenmai">
-    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </a>
-</div>
+---
 
-<br>
+## Interests
 
-<!-- ===== Favorite Quote ===== -->
-<h2 align="center">📑 My Favorite Quote</h2>
+- International Finance  
+- Financial Data Analysis  
+- Technology applications in Finance  
+- Academic research and self-development  
 
-<p align="center">
-  <em>"Everyday is a learning day."</em>
-</p>
+---
+
+## Skills & Tools
+
+- Microsoft Excel (financial analysis, data organization)  
+- Basic data analysis mindset  
+- Academic research and structured thinking  
+- Learning and applying new tools independently  
+
+---
+
+## Learning Direction
+
+- Data Analytics fundamentals  
+- Finance-related data interpretation  
+- Practical applications of technology in finance  
+
+---
+
+> *Everyday is a learning day*
