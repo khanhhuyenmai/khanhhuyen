@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/khanhhuyenmai.svg" alt="banner" />](https://raw.githubusercontent.com/khanhhuyenmai/khanhhuyenmai/refs/heads/main/khanhhuyenmai.svg)
+<img src="https://raw.githubusercontent.com/khanhhuyenmai/khanhhuyenmai/main/khanhhuyenmai.svg" alt="banner" />
 
 ## About Me
 
